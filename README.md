@@ -11,9 +11,9 @@ Real-time Display: Utilizes OpenCV for displaying real-time video with detected 
 
 # Requirements
   To run the project, you need to have the following dependencies installed:
-  Python 3.x
-  OpenCV (opencv-python)
-  face_recognition library
+  <br>Python 3.x<br>
+  OpenCV (opencv-python)<br>
+  face_recognition library<br>
   numpy library
 
 # Install dependencies using pip:
