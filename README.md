@@ -16,7 +16,8 @@ Python 3.x
 OpenCV (opencv-python)
 face_recognition library
 numpy library
-Install dependencies using pip:
+
+# Install dependencies using pip:
 
 pip install opencv-python
 pip install face_recognition
