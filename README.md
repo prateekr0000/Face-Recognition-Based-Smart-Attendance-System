@@ -10,18 +10,16 @@ User Interaction: Simple interaction via keyboard input (pressing 'q' to exit).
 Real-time Display: Utilizes OpenCV for displaying real-time video with detected faces and attendance information.
 
 # Requirements
-To run the project, you need to have the following dependencies installed:
-
-Python 3.x
-OpenCV (opencv-python)
-face_recognition library
-numpy library
+  To run the project, you need to have the following dependencies installed:
+  Python 3.x
+  OpenCV (opencv-python)
+  face_recognition library
+  numpy library
 
 # Install dependencies using pip:
-
-pip install opencv-python
-pip install face_recognition
-pip install numpy
+     pip install opencv-python
+     pip install face_recognition
+     pip install numpy
 
 # Usage
 Clone or download the project repository to your local machine.
